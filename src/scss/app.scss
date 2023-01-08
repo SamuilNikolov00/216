@@ -46,5 +46,6 @@ html {
 }
 
 .terms{
-  overflow: hidden visible;
+  overflow:scroll;
+  overflow-x: hidden;
 }
